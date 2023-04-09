@@ -57,7 +57,7 @@ TBD
 
 ## Acknowledgments
 
-* Thanks to PurpleBooth for README file templete
+* Thanks to PurpleBooth for README file template
 
 ## Favorite Books
 
